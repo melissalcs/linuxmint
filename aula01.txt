@@ -1,0 +1,3 @@
+INtegração Linux Mint, Microsoft WIndows e Github
+
+Sempre no LInux iremos usar dois tipos de arquivos : .txt (texto puro) e .md (mark down, é + simples que o HTML)
